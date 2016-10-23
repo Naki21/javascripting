@@ -1,3 +1,3 @@
-"Use Strict";
+"use strict";
 
 console.log('hello');
